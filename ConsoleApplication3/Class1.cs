@@ -8,5 +8,8 @@ namespace ConsoleApplication3
 {
     class Class1
     {
+        private void Test()
+        {
+        }
     }
 }
