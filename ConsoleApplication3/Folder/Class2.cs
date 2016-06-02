@@ -9,4 +9,5 @@ namespace ConsoleApplication3.Folder
     class Class2
     {
     }
+
 }
